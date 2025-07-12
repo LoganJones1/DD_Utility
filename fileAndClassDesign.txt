@@ -1,0 +1,16 @@
+Creature List File:
+Key - Name - HP_diceNum - HP_diceType - HP_offset - AC - dexMod
+
+Encounter List File:
+Key - Name - isFavourite - creatureKey - cretureNum - creatureKey - cretureNum...
+
+PC List File:
+Key - Name - HP_current - HP_max - HP_temp - AC - conditions
+
+Party List File:
+Key - Name - PC_key - PC_key...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Initiative Order Class:
+Key - Name - HP_current - HP_max - HP_temp - AC - conditions - isMonster
